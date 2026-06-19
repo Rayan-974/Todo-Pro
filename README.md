@@ -58,12 +58,14 @@ Start the Todo app:
 ```bash
 python project.py
 ```
-🙋 Authors
-Rayan Ahmer
 
----
 
 ## 🛠️ Technology Stack
 - **Language**: Python 3.14+
 - **GUI Engine**: [CustomTkinter](https://github.com/TomSchimansky/CustomTkinter) (Modern Tkinter styling library)
 - **Data Persistence**: JSON Local File System (`tasks.json`)
+
+🙋 Authors
+Rayan Ahmer
+
+---
